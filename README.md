@@ -8,7 +8,7 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Ollama](https://img.shields.io/badge/AI-Ollama-red.svg)](https://ollama.com)
 
-Dave is a modern chat application with multilingual support and customizable interface. The application uses Ollama for response generation and provides a user-friendly interface for interacting with AI.
+Dave is a modern chat application with multilingual support and customizable interface. The application uses Ollama for response generation and provides a user-friendly interface for interacting with AI. Dave is designed to help users perform various tasks on their PC, such as file creation, file searching, system management, and other automated operations through natural language commands.
 
 ![Chat Interface](img/chat.png)
 

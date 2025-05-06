@@ -6,7 +6,7 @@
 [![Code-Stil: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Ollama](https://img.shields.io/badge/AI-Ollama-red.svg)](https://ollama.com)
 
-Dave ist eine moderne Chat-Anwendung mit mehrsprachiger Unterstützung und anpassbarer Benutzeroberfläche. Die Anwendung nutzt Ollama für die Antwortgenerierung und bietet eine benutzerfreundliche Schnittstelle für die Interaktion mit KI.
+Dave ist eine moderne Chat-Anwendung mit mehrsprachiger Unterstützung und anpassbarer Benutzeroberfläche. Die Anwendung nutzt Ollama für die Antwortgenerierung und bietet eine benutzerfreundliche Schnittstelle für die Interaktion mit KI. Dave wurde entwickelt, um Benutzern bei verschiedenen Aufgaben auf ihrem PC zu helfen, wie z.B. Dateierstellung, Dateisuche, Systemverwaltung und andere automatisierte Operationen durch natürliche Sprachbefehle.
 
 ![Chat-Oberfläche](img/chat.png)
 

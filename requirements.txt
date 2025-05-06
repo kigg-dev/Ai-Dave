@@ -1,0 +1,6 @@
+PyQt5>=5.15.0
+PyQt5-Qt5>=5.15.0
+PyQt5-sip>=12.8.0
+PyQtWebEngine>=5.15.0
+PyQtFluent>=1.0.0
+ollama>=0.1.0 

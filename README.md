@@ -64,7 +64,7 @@ python main.py
    - Configure additional display settings
 
 3. **History Management**:
-   - Use "Clear History" button to clear chat history
+   - Use "Clear  History" button to clear chat history
    - History is preserved between sessions
 
 ## 🤝 Contributing
